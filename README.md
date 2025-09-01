@@ -8,7 +8,6 @@ This project performs an in-depth exploratory data analysis (EDA) of the World H
 
   * **Strong Correlations**: A country's happiness score is highly correlated with its **GDP per capita**, **social support**, and **healthy life expectancy**.
   * **Time-Series Stability**: The average global happiness score remained **relatively stable** between 2017 and 2020.
-  * **Country Segmentation**: Using **K-Means clustering** and **PCA**, countries were grouped into three distinct segments: **High Happiness**, **Medium Happiness**, and **Low Happiness**. These clusters are defined by shared economic and social characteristics.
   * **Economic Impact**: A clear relationship was found between economic prosperity and happiness, with countries in the highest **GDP** bracket consistently having the highest average happiness scores.
 
 ### **Dataset**
