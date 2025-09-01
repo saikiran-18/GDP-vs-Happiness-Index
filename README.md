@@ -1,5 +1,4 @@
 # GDP-vs-Happiness-Index
-# GDP vs Happiness Index
 
 ### **Project Overview**
 
