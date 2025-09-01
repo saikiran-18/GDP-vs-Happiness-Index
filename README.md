@@ -30,5 +30,3 @@ To run the analysis, you will need the following Python libraries. You can insta
 ```bash
 pip install pandas scikit-learn seaborn matplotlib
 ```
-### **Interactive plots**
-your_plot.html
